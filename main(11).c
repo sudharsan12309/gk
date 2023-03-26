@@ -105,5 +105,5 @@ int main()
         }
 		printf("\n \n");
 		fclose(fp);
-            
+            printf("hai");
         }
